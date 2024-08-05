@@ -1,0 +1,10 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon Aug  5 14:07:48 2024"
+  rime_version: 1.11.2
+patch:
+  "style/color_scheme": mint_dark_blue
+  "style/candidate_list_layout": linear
+  "style/horizontal": true

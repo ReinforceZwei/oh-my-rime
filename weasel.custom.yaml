@@ -1,0 +1,12 @@
+patch:
+  # Make all windows shares same ascii mode state
+  global_ascii: true
+  "style/font_point": 12
+  "style/font_face": "Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:30:39, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Noto Sans TC, Noto Sans SC, Segoe UI, Microsoft YaHei, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
+  "style/label_font_face": "Noto Sans TC, Noto Sans SC, Microsoft YaHei, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
+  "style/comment_font_face": "Noto Sans TC, Noto Sans SC, Microsoft YaHei, DengXian, Segoe UI Emoji, Noto Color Emoji, Segoe UI Symbol"
+  "style/layout/margin_x": 8
+  "style/layout/margin_y": 2
+  "style/layout/hilite_padding_x": 8
+  "style/layout/hilite_padding_y": 2
+  "style/horizontal": true

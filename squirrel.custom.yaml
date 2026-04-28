@@ -1,0 +1,3 @@
+patch:
+  "key_binder/bindings":
+    - { when: always, accept: Caps_Lock, toggle: ascii_mode }

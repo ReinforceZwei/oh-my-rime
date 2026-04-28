@@ -2,3 +2,4 @@ patch:
   "transcription_cc/opencc_config": s2hk.json
   "switches/@1/reset": 0 # emoji
   "switches/@4/reset": 1 # transcription
+  "translator/dictionary": rime_mint_custom

@@ -84,6 +84,7 @@ engine:
     - lua_filter@*autocap_filter                 # 英文自动大写
     - simplifier@emoji_suggestion
     - simplifier@transcription_cc
+    - lua_filter@*variant_denylist_filter         # 屏蔽 OpenCC 一对多转换带出的异体字（如 玩→玩/翫）
     - lua_filter@*reduce_english_filter          # 降低部分英语单词在候选项的位置
     - uniquifier                                 # 去重
 
